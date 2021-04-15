@@ -23,6 +23,6 @@
 <br>
 <h3 align="left">Contact me: </h3>
 <p align="left">
-   <a href="https://www.linkedin.com/in/alessandroneri/" target="_blank"> <img src="https://img.shields.io/badge/aleneri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandroneri/" alt="mysql" width="60" height="30"/> </a> 
-     <a href="mailto:alessandro.neri@gmail.coM" target="_blank"> <img src="https://img.shields.io/badge/GMAIL-db4a39?style=flat&logo=Gmail&logoColor=white&link=mailto:alessandro.neri@gmail.com" alt="mysql" width="60" height="30"/> </a> 
+   <a href="https://www.linkedin.com/in/alessandroneri/" target="_blank"> <img src="https://img.shields.io/badge/aleneri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandroneri/" alt="https://www.linkedin.com/in/alessandroneri/" > </a> 
+     <a href="mailto:alessandro.neri@gmail.coM" target="_blank"> <img src="https://img.shields.io/badge/GMAIL-db4a39?style=flat&logo=Gmail&logoColor=white&link=mailto:alessandro.neri@gmail.com" alt="alessandro.neri@gmail.com"/> </a> 
 </p>
